@@ -27,7 +27,7 @@ int main(){
 
 //program 3
 
-//write a program to calculate area of a square (s8de is given)
+//write a program to calculate area of a square (side is given)
 #include <stdio.h>
 int main(){
   int side;
